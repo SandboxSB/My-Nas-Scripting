@@ -1,4 +1,4 @@
-// A Computer!
+// A Computer by SB!
 #computer
 msg &fUser: &7what
 delay 1000
